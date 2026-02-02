@@ -1,10 +1,10 @@
-# 💼 Portfólio Pessoal - Challenge Oracle ONE
+# Portfólio Pessoal - Challenge Oracle ONE
 
 Este repositório contém o desenvolvimento do meu Portfólio Pessoal, realizado como parte do **Challenge Front-End** do programa **Oracle ONE** (Oracle Next Education) em parceria com a **Alura**.
 
 O objetivo foi construir uma página web responsiva para apresentar meus projetos, habilidades e contato profissional, aplicando conceitos fundamentais de Front-End.
 
-## 🌐 Demonstração Online
+## Demonstração Online
 
 Acesse meu portfólio online clicando no botão abaixo:
 
@@ -12,7 +12,7 @@ Acesse meu portfólio online clicando no botão abaixo:
 
 > **Link:** https://gabrie1tk.github.io/portfolio-Challenge-Alura-One/
 
-## 🛠️ Funcionalidades
+## Funcionalidades
 
 O projeto conta com as seguintes seções de navegação:
 
@@ -22,13 +22,13 @@ O projeto conta com as seguintes seções de navegação:
 - [x] **Projetos:** Galeria com links para meus principais repositórios e demonstrações.
 - [x] **Contato:** Formulário interativo e links para redes sociais (LinkedIn, GitHub).
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **HTML5:** Estrutura semântica da página.
 * **CSS3:** Estilização, variáveis de cores e layout responsivo (Flexbox/Media Queries).
 * **JavaScript:** Validação do formulário de contato e animações de interface.
 
-## 📂 Como Rodar Localmente
+## Como Rodar Localmente
 
 1.  **Clone o repositório:**
     ```bash
@@ -39,7 +39,7 @@ O projeto conta com as seguintes seções de navegação:
 3.  **Abra o navegador:**
     Execute o arquivo `index.html` para visualizar o portfólio.
 
-## 🏅 Badges
+## Badges
 
 Este projeto garante a **Badge de Front-End** do programa Oracle ONE.
 
@@ -48,6 +48,3 @@ Este projeto garante a **Badge de Front-End** do programa Oracle ONE.
 ## Autor
 
 Desenvolvido por **[Gabriel Takao](https://github.com/Gabrie1Tk)**.
-
----
-*Projeto desenvolvido durante o programa Oracle Next Education.*
